@@ -1,0 +1,8 @@
+﻿  fileCalculations.cpp
+C:\Users\cyril\source\repos\fileCalculations\fileCalculations.cpp(6,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cyril\source\repos\fileCalculations\fileCalculations.cpp(7,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cyril\source\repos\fileCalculations\fileCalculations.cpp(33,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cyril\source\repos\fileCalculations\fileCalculations.cpp(26,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cyril\source\repos\fileCalculations\fileCalculations.cpp(27,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cyril\source\repos\fileCalculations\fileCalculations.cpp(28,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  fileCalculations.vcxproj -> C:\Users\cyril\source\repos\fileCalculations\x64\Debug\fileCalculations.exe

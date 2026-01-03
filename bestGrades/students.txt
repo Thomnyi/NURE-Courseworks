@@ -1,0 +1,11 @@
+Ivanov, 101, 5, 5, 5;
+Petrov, 102, 3, 4, 2;
+Smith, 105, 5, 5, 5;
+Sidorov, 101, 4, 3, 4;
+Lee, 110, 5, 4, 5;
+Garcia, 116, 2, 2, 3;
+Muller, 103, 4, 4, 4;
+Brown, 108, 3, 5, 4;
+Taylor, 112, 5, 3, 2;
+Wilson, 115, 4, 5, 3;
+Best students: Ivanov Smith 
